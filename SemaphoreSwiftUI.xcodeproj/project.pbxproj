@@ -11,6 +11,7 @@
 		1F2A19522537896900957583 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2A19512537896900957583 /* ContentView.swift */; };
 		1F2A19542537896A00957583 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F2A19532537896A00957583 /* Assets.xcassets */; };
 		1F2A19572537896A00957583 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F2A19562537896A00957583 /* Preview Assets.xcassets */; };
+		1FD3BFF82537931900829BB0 /* Semaphore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD3BFF72537931900829BB0 /* Semaphore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1F2A19532537896A00957583 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F2A19562537896A00957583 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1F2A19582537896A00957583 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FD3BFF72537931900829BB0 /* Semaphore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Semaphore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				1F2A194F2537896900957583 /* SemaphoreSwiftUIApp.swift */,
 				1F2A19512537896900957583 /* ContentView.swift */,
+				1FD3BFF72537931900829BB0 /* Semaphore.swift */,
 				1F2A19532537896A00957583 /* Assets.xcassets */,
 				1F2A19582537896A00957583 /* Info.plist */,
 				1F2A19552537896A00957583 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F2A19522537896900957583 /* ContentView.swift in Sources */,
+				1FD3BFF82537931900829BB0 /* Semaphore.swift in Sources */,
 				1F2A19502537896900957583 /* SemaphoreSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
