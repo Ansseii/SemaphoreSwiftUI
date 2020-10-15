@@ -56,7 +56,6 @@ struct ActionButton: View {
                 .foregroundColor(.black)
                 .padding(10)
                 .border(Color.gray, width: 5)
-            
         }
     }
 }
